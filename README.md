@@ -1,5 +1,7 @@
 # sfedu-lms-harness
 
+English | **[Русский](README.ru.md)**
+
 **MCP server + CLI harness that drives your real browser through an LMS (Moodle™): pulls all course materials, reads and takes quizzes/tests, and searches the web — all through your existing logged-in session.**
 
 Built for (and battle-tested on) the Moodle instance of SFedU IKTiB ("СЭО ИКТИБ ЮФУ", `lms.sfedu.ru`), but the approach works for any Moodle with your real browser cookies.
