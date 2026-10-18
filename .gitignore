@@ -1,0 +1,19 @@
+# runtime artifacts (never committed)
+__pycache__/
+*.pyc
+
+# downloaded LMS course materials (copyrighted, per-course)
+context/
+
+# throw-away reports, dumps, screenshots
+tmp/
+
+# chrome automation profile (contains cookies/session)
+chrome_profile/
+
+# local one-off session scripts
+archive/
+
+# OS junk
+.DS_Store
+Thumbs.db

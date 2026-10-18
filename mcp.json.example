@@ -1,0 +1,12 @@
+{
+  "_comment": "Example MCP config. Install into your agent (see README). Paths must be absolute on your machine.",
+  "mcpServers": {
+    "lms": {
+      "command": "python",
+      "args": ["C:\\absolute\\path\\to\\sfedu-lms-harness\\mcp_lms.py"],
+      "env": {
+        "LMS_ENGINE": "firefox"
+      }
+    }
+  }
+}
